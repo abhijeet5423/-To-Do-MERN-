@@ -9,7 +9,7 @@ Full Stack To Do List web application
 
  Demo Video
 Check out the live demo of the project here:  
-[Watch Video](YOUR_VIDEO_LINK_HERE)
+Watch Video- https://drive.google.com/file/d/1pFGGF_4Ys9YQNPX_1_EKDp-goJTXiYeM/view?usp=drive_link
 
 ---
 
@@ -34,7 +34,7 @@ Check out the live demo of the project here:
 ---
 
  🛠 Installation & Setup
-1️⃣ Clone the repository
+Clone the repository
 git clone 
 cd 
 
